@@ -81,10 +81,10 @@
               <Item Name="HTML Server-Side Script" Foreground="$Magenta" Background="$BgHighlight" BoldFont="No"/>
               <Item Name="HTML Tag Delimiter" Foreground="$SecondaryContent" Background="0x02000000" BoldFont="No"/>
               <Item Name="Identifier" Foreground="$PrimaryContent" Background="0x02000000" BoldFont="No"/>
-              <Item Name="Keyword" Foreground="$Green" Background="0x02000000" BoldFont="No"/>
+              <Item Name="Keyword" Foreground="$Blue" Background="0x02000000" BoldFont="No"/>
               <Item Name="Memory Changed" Foreground="$Red" Background="0x02000000" BoldFont="No"/>
               <Item Name="Number" Foreground="$Cyan" Background="0x02000000" BoldFont="No"/>
-              <Item Name="Operator" Foreground="$Green" Background="0x02000000" BoldFont="No"/>
+              <Item Name="Operator" Foreground="$Blue" Background="0x02000000" BoldFont="No"/>
               <Item Name="Other Error" Foreground="$Magenta" Background="0x02000000" BoldFont="No"/>
               <Item Name="Preprocessor Keyword" Foreground="$Orange" Background="0x02000000" BoldFont="No"/>
               <Item Name="Razor Code" Foreground="0x02000000" Background="$BgHighlight" BoldFont="No"/>
@@ -106,11 +106,11 @@
               <Item Name="Task List Shortcut" Foreground="$Background" Background="$Blue" BoldFont="No"/>
               <Item Name="Track Changes after save" Foreground="0x02000000" Background="$Green" BoldFont="No"/>
               <Item Name="Track Changes before save" Foreground="0x02000000" Background="$Yellow" BoldFont="No"/>
-              <Item Name="User Types" Foreground="$Yellow" Background="0x02000000" BoldFont="Yes"/>
+              <Item Name="User Types" Foreground="$Green" Background="0x02000000" BoldFont="Yes"/>
               <Item Name="User Types(Delegates)" Foreground="$Violet" Background="0x02000000" BoldFont="Yes"/>
-              <Item Name="User Types(Enums)" Foreground="$Yellow" Background="0x02000000" BoldFont="Yes"/>
-              <Item Name="User Types(Interfaces)" Foreground="$Yellow" Background="0x02000000" BoldFont="Yes"/>
-              <Item Name="User Types(Value types)" Foreground="$Yellow" Background="0x02000000" BoldFont="Yes"/>
+              <Item Name="User Types(Enums)" Foreground="$Green" Background="0x02000000" BoldFont="Yes"/>
+              <Item Name="User Types(Interfaces)" Foreground="$Green" Background="0x02000000" BoldFont="Yes"/>
+              <Item Name="User Types(Value types)" Foreground="$Green" Background="0x02000000" BoldFont="Yes"/>
               <Item Name="Warning" Foreground="$Green" Background="0x02000000" BoldFont="No"/>
               <Item Name="Warning Lines Path" Foreground="$Blue" Background="$BgHighlight" BoldFont="No"/>
               <Item Name="XAML Attribute" Foreground="$PrimaryContent" Background="0x02000000" BoldFont="No"/>
@@ -144,7 +144,7 @@
               <!-- ReSharper -->
               <Item Name="ReSharper Error Highlighting" Foreground="$Red" Background="0x01000001" BoldFont="No"/>
               <Item Name="ReSharper Underlined Error Highlighting" Foreground="$Red" Background="0x01000001" BoldFont="No"/>
-              <Item Name="ReSharper Warning" Foreground="$Orange" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper Warning" Foreground="$Yellow" Background="0x01000001" BoldFont="No"/>
               <Item Name="ReSharper Dead Code" Foreground="$SecondaryContent" Background="0x01000001" BoldFont="No"/>
               <Item Name="ReSharper Suggestion" Foreground="$Green" Background="0x01000001" BoldFont="No"/>
               <Item Name="ReSharper Non-Private Unused Members" Foreground="$SecondaryContent" Background="0x01000001" BoldFont="No"/>
